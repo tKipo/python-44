@@ -1,0 +1,5 @@
+new_str = input()
+new_str = new_str.replace("Uncle Styopa", "Yan")
+new_str = new_str.replace("Uncle", "Yan")
+new_str = new_str.replace("Styopa", "Yan")
+print(new_str)
